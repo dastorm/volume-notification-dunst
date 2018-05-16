@@ -10,6 +10,10 @@ same directory. This patched notify-send.sh is necessary because by default noti
 /path/to/volume.sh up (or down or mute)
 Or bind the desired functionality to your key combination of choice.
 # screenshots
-<a href="http://i.imgur.com/GKOliJ7.png">
-  <img src="http://imgur.com/GKOliJ7l.png" />
+<a href="http://i.imgur.com/IKpZvez.png">
+  <img src="http://imgur.com/IKpZvezl.png" />
+</a>
+
+<a href="http://i.imgur.com/JrsExYe.png">
+  <img src="http://imgur.com/JrsExYel.png" />
 </a>
