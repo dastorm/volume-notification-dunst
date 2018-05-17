@@ -25,7 +25,7 @@ $DIR/notify-send.sh "$volume""      " -i "$icon_name" -t 2000 -h int:value:"$vol
     else
 	if [  "$volume" -lt "10" ]; then
 	     icon_name="/usr/share/icons/Faba/48x48/notifications/notification-audio-volume-low.svg"
-~/Scripts/notify-send.sh-master/notify-send.sh "$volume""     " -i "$icon_name" --replace=555 -t 2000
+$DIR/notify-send.sh "$volume""     " -i "$icon_name" --replace=555 -t 2000
     else
         if [ "$volume" -lt "30" ]; then
             icon_name="/usr/share/icons/Faba/48x48/notifications/notification-audio-volume-low.svg"
